@@ -1,4 +1,4 @@
-name: NUMERO
+name: CALCULADORA
 
 on: [push]
 
